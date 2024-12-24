@@ -41,7 +41,7 @@ Penggunaan teknik *image processing* dengan **OpenCV** dan *Optical Character Re
    - *Denoising* untuk mengurangi noise dan mempertajam gambar.  
    - *Binarization* untuk mengubah gambar menjadi format hitam-putih.
 3. **Deteksi Plat Nomor**: Menggunakan koordinat bounding box dari dataset untuk menandai area plat nomor.
-4. **OCR**: Menggunakan **Tesseract** dan **EasyOCR** untuk mengenali teks dari plat nomor.
+4. **OCR**: Menggunakan **Tesseract**, **EasyOCR**, dan **PaddleOCR** untuk mengenali teks dari plat nomor.
 5. **Ekspor Hasil**: Menyimpan hasil gambar dan anotasi dalam format ZIP.
 
 ### **4.2 Batasan**
