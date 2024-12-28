@@ -4,7 +4,7 @@
 
 ## **1. Ringkasan**
 
-Proyek ini bertujuan untuk mendeteksi dan mengenali plat nomor kendaraan dari gambar menggunakan kombinasi teknik *image processing* dan *Optical Character Recognition (OCR)*. Proses ini melibatkan beberapa tahap, termasuk *deskewing*, *denoising*, *binarization*, dan ekstraksi teks dengan **Tesseract** dan **EasyOCR**. Dataset yang digunakan berasal dari Kaggle untuk memastikan variasi gambar yang memadai. 
+Proyek ini bertujuan untuk mendeteksi dan mengenali plat nomor kendaraan dari gambar menggunakan kombinasi teknik *image processing* dan *Optical Character Recognition (OCR)*. Proses ini melibatkan beberapa tahap, termasuk *deskewing*, *denoising*, *binarization*, dan ekstraksi teks dengan **PaddleOCR** dan **EasyOCR**. Dataset yang digunakan berasal dari Kaggle untuk memastikan variasi gambar yang memadai. 
 
 Hasil dari proyek ini diharapkan dapat membantu dalam otomatisasi proses identifikasi plat nomor untuk aplikasi seperti sistem parkir, pengawasan lalu lintas, dan penegakan hukum.
 
